@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/CaniculaSw/AndroidWechat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhangyangS/AndroidWeChat" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\Android Application\ChatWe\demo" />
+    <option name="cloneParentDir" value="E:\AndroidWeChat" />
   </component>
 </application>
